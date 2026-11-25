@@ -1,0 +1,29 @@
+{
+  "name": "formularios-reclamar-deudas-monitorio",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Cobrar deudas: monitorio y cambiario · España (64 formularios). Para reclamar deudas: petición inicial de monitorio (también de comunidad de propietarios), oposición del deudor, impugnación de la oposición, paso al declarativo y juicio cambiario con letras, pagarés y cheques. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-reclamar-deudas-monitorio",
+      "source": "./",
+      "description": "Cobrar deudas: monitorio y cambiario · España (64 formularios). Para reclamar deudas: petición inicial de monitorio (también de comunidad de propietarios), oposición del deudor, impugnación de la oposición, paso al declarativo y juicio cambiario con letras, pagarés y cheques. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "monitorio-y-cambiario"
+      ]
+    }
+  ]
+}
